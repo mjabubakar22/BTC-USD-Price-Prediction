@@ -15,4 +15,4 @@ Lastly, assuming the model passes the validation stage, I will bactest and measu
 
 
 ## ([view notebook here](https://nbviewer.org/github/mjabubakar22/Tech-Portfolio-Analysis/blob/main/Tech%20Stocks%20Portfolio.ipynb))
-![newplot (2)](https://user-images.githubusercontent.com/80532199/166159924-2dac06d9-9968-4d8d-98f7-d77a3f8e40e9.png)
+![newplot](https://user-images.githubusercontent.com/80532199/171748437-ebe4eba0-9bb2-4075-9637-22ac38373e7a.png)
